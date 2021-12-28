@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "48873724913",
+    "firebase_url": "https://movies-1294b-default-rtdb.firebaseio.com",
+    "project_id": "movies-1294b",
+    "storage_bucket": "movies-1294b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48873724913:android:8dcbd36368b1584173c250",
+        "android_client_info": {
+          "package_name": "com.example.bingewatchversion3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "48873724913-ttfkm74i7sil35ifduvurrpvio23v3jp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVie6W2Eg1RjVa7UKD9bcf-cM7Y7TTjoM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "48873724913-ttfkm74i7sil35ifduvurrpvio23v3jp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
